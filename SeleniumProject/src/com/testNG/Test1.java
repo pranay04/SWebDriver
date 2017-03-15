@@ -15,5 +15,6 @@ public class Test1
 	public void test3()
 	{
 		System.out.println("test3()");
+		System.out.println("testkfdjhk");
 	}
 }
